@@ -51,7 +51,7 @@
     
     - [Improving your databases with Azure SQL Database tips](https://techcommunity.microsoft.com/t5/azure-sql/improving-your-databases-with-azure-sql-database-tips/ba-p/2094678) 
     - [Azure SQL Tips](https://github.com/microsoft/azure-sql-tips)
-    - [Azure SQL Tips Notebook.ipynb](.\2.AzureSQLDBTips.ipynb)
+    - [Azure SQL Tips Notebook.ipynb](https://github.com/danielgoldszmit/SQLMonitoring-Optimization/blob/main/2.AzureSQLDBTips.ipynb)
 7. Run Wait Stats (Good for SQL VM, MI and Azure SQL DBs)
     
     - [SQL Server Wait Statistics (or please tell me where it hurts…)](https://www.sqlskills.com/blogs/paul/wait-statistics-or-please-tell-me-where-it-hurts/)
