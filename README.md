@@ -12,7 +12,7 @@
     
 - Extended Events (XEvents)
     
-    > ![Layered Approach](.\Assets\SQLOptimizationLayeredApproach.png)
+    > ![Layered Approach](./Assets/SQLOptimizationLayeredApproach.png)
     
 
 1. Look over performance guidelines for the SQL VM and going through the check list
