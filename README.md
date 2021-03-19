@@ -12,7 +12,7 @@
     
 - Extended Events (XEvents)
     
-    > ![Layered Approach](./Assets/SQLOptimizationLayeredApproach.png)
+    > ![Layered Approach](https://github.com/danielgoldszmit/SQLMonitoring-Optimization/blob/main/Assets/SQLOptimizationLayeredApproach.PNG)
     
 
 1. Look over performance guidelines for the SQL VM and going through the check list
@@ -32,10 +32,10 @@
     - [https://docs.microsoft.com/en-us/sql/relational-databases/performance/performance-dashboard?view=sql-server-ver15](https://docs.microsoft.com/en-us/sql/relational-databases/performance/performance-dashboard?view=sql-server-ver15)
 4. Using Log Analytics
     
-    - ![SQL Assessment Solution](.\Assets\sqlassessment.png) SQL Assessment Solution for SQL VMs (SQL Health Check) - [https://docs.microsoft.com/en-us/azure/azure-monitor/insights/sql-assessment](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/sql-assessment)
+    - ![SQL Assessment Solution](https://github.com/danielgoldszmit/SQLMonitoring-Optimization/blob/main/Assets/sqlassessment.png) SQL Assessment Solution for SQL VMs (SQL Health Check) - [https://docs.microsoft.com/en-us/azure/azure-monitor/insights/sql-assessment](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/sql-assessment)
         
         - The sql assessement solution supports SQL Server version 2012, 2014, 2016, 2017, and 2019.
-    - ![SQL Assessment Solution](.\Assets\azuresqllanalyitcs.png) Azure SQL Analytics Solution for Azure SQL DBs and Managed Instance - [https://docs.microsoft.com/en-us/azure/azure-monitor/insights/azure-sql](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/sql-assessment)
+    - ![SQL Assessment Solution](https://github.com/danielgoldszmit/SQLMonitoring-Optimization/blob/main/Assets/azuresqllanalyitcs.png) Azure SQL Analytics Solution for Azure SQL DBs and Managed Instance - [https://docs.microsoft.com/en-us/azure/azure-monitor/insights/azure-sql](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/sql-assessment)
         
         - The sql assessement solution supports SQL Server version 2012, 2014, 2016, 2017, and 2019.
 5. Verify Deployment
@@ -68,4 +68,4 @@
 - Running alot - You have a CPU issue and your queries are running hot or you have a query compilation problem
 - Waiting alot - You have Blocking isses, IO issues because of a lack of indexes, or you have a tempdb contention.
 
- > ![Layered Approach](.\Assets\buckets.png)
+ > ![Layered Approach](https://github.com/danielgoldszmit/SQLMonitoring-Optimization/blob/main/Assets/buckets.png)
