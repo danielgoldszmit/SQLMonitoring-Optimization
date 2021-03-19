@@ -46,7 +46,7 @@
     - Verify server memory configuration options
     - Gets back DTU limits, CPU limits, Memory limits, Size limits, Log limits
     - Verify installed physical memory, memory usage, memory model, service startup time
-    - [Verify Deployment.ipynb](https://github.com/danielgoldszmit/SQLMonitoring-Optimization/blob/main/1.VerifyDeployment.md)
+    - [Verify Deployment.md](https://github.com/danielgoldszmit/SQLMonitoring-Optimization/blob/main/1.VerifyDeployment.md)
 6. Azure SQL Database Tips (If you're running Azure SQL DB)
     
     - [Improving your databases with Azure SQL Database tips](https://techcommunity.microsoft.com/t5/azure-sql/improving-your-databases-with-azure-sql-database-tips/ba-p/2094678) 
